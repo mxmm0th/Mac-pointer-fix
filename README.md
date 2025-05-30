@@ -223,7 +223,7 @@ Having issues? We're here to help!
 
 - 🐛 **Bug Reports**: [Open an Issue](https://github.com/yourusername/mouse-booster/issues)
 - 💡 **Feature Requests**: [Start a Discussion](https://github.com/yourusername/mouse-booster/discussions)
-- 📧 **Contact**: [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Contact**: [bekafearn01@gmail.com](mailto:your.email@example.com)
 
 ---
 
